@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Instagram &#8211; AYA</title>
+	<atom:link href="http://localhost/tag/instagram/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoangtronganh.github.io/</link>
+	<description>Share news</description>
+	<lastBuildDate>Thu, 30 Jun 2022 07:00:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://hoangtronganh.github.io/wp-content/uploads/2022/06/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Instagram &#8211; AYA</title>
+	<link>https://hoangtronganh.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Instagram is testing an AI tool that verifies your age by scanning your face</title>
+		<link>https://hoangtronganh.github.io/instagram-is-testing-an-ai-tool-that-verifies-your-age-by-scanning-your-face/</link>
+					<comments>https://hoangtronganh.github.io/instagram-is-testing-an-ai-tool-that-verifies-your-age-by-scanning-your-face/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 06:23:00 +0000</pubDate>
+				<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://hoangtronganh.github.io/instagram-is-testing-an-ai-tool-that-verifies-your-age-by-scanning-your-face/</guid>
+
+					<description><![CDATA[Instagram is testing new methods for users to verify their age, including an AI tool built by a third-party company, Yoti, that estimates how old you are just by scanning your face. Officially, you have to be at least 13 years old to sign up for an Instagram account, but for years the company made [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="l-col__main">
+<figure class="e-image e-image--hero"></figure>
+<div class="remixd-wrapper"></div>
+<div class="c-entry-content ">
+<p id="z6llvO">Instagram is testing new methods for users to verify their age, including an AI tool built by a third-party company, Yoti, that estimates how old you are just by scanning your face.</p>
+<p id="JRy9Qt">Officially, you have to be at least 13 years old to sign up for an Instagram account, but for years the company made little effort to enforce this rule. <a href="https://www.theverge.com/2019/12/4/20995331/instagram-new-user-birthdate-account-create-age-younger-users" target="_blank" rel="noopener">Until 2019</a>, it didn’t even bother to ask new users their birthdate, let alone try to verify this information. After being raked over the coals by privacy and child safety experts, though, Instagram has introduced more and more <a href="https://www.theverge.com/2021/8/30/22648578/instagram-age-birthday-requirement-younger-people-ai-verification" target="_blank" rel="noopener">age-verification features</a>, as well as methods to <a href="https://www.theverge.com/2021/3/16/22333580/instagram-bans-adults-messaging-teens-safety-notice-prompt" target="_blank" rel="noopener">separate younger users</a> from adults.</p>
+<div class="c-float-right">
+<aside id="F4V29r"><q>Users can ask friends to verify their age, or have their face scanned by AI</q></aside>
+</div>
+<p id="FKxPUt">Currently, Instagram asks users to verify their age only when teenagers try to edit their birth date to show them as 18 or older. To verify their age, users can send in <a href="https://help.instagram.com/271237319690904" target="_blank" rel="noopener">pictures of various ID cards</a>, and, from today, users in the US will have two additional options: social vouching and AI estimation.</p>
+<p id="oddbPE">For the first method, social vouching, Instagram will ask three mutual followers of the user to confirm how old they are. The mutual followers will have to be over the age of 18 themselves, and will have three days to respond to Instagram’s request. The second method, AI estimation, involves sending a video selfie to a third-party company, Yoti, which uses machine learning to estimate a person’s age.</p>
+<p id="qBjQRD">Yoti is a well-known player in online age and ID verification, and its technology has been approved for use by the <a href="https://www.digitalmarketplace.service.gov.uk/g-cloud/services/420518726231547" target="_blank" rel="noopener">UK government</a> and <a href="https://www.yoti.com/blog/german-regulator-fsm-approves-yoti-digital-identities-and-age-estimation-for-for-online-child-protection-in-germany/" target="_blank" rel="noopener">German digital regulators</a>. It uses various facial signals to estimate a target’s age. (Though the company itself says <a href="https://www.wired.co.uk/article/age-estimation-ai-yoti" target="_blank" rel="noopener">it doesn’t know what exactly these signals are</a>. Wrinkles? A look of ineffable sadness? It’s all in the mix.)</p>
+<p id="3Yfppo">You can actually try Yoti’s system on the web <a href="https://yoti.world/yoti-age-estimation-demo/" target="_blank" rel="noopener">right here</a> (the company says it doesn’t retain any data you share with it) and see its accuracy rates below. The numbers show, in years, the error rate of Yoti’s age estimations for different age ranges, skin tones, and genders.</p>
+<figure class="e-image">
+<p><span class="e-image__inner"><span class="e-image__inner"><picture class="c-picture" data-cid="site/picture_element-1656569025_9742_264899" data-cdata="{&quot;asset_id&quot;:23646181,&quot;ratio&quot;:&quot;*&quot;}"><source srcset="https://cdn.vox-cdn.com/thumbor/rWyJ5QMXyfU8pXAtvlzCoEn0sZs=/0x0:1518x742/320x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 320w, https://cdn.vox-cdn.com/thumbor/_lLDrTSSnRqptEmVhDBXH84a_X8=/0x0:1518x742/520x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 520w, https://cdn.vox-cdn.com/thumbor/_QI012eoPzDxdcECGm-V2TB5HU4=/0x0:1518x742/720x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 720w, https://cdn.vox-cdn.com/thumbor/HBzXAOJZhBS_wG4bKo6Kzbg2HF4=/0x0:1518x742/920x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 920w, https://cdn.vox-cdn.com/thumbor/TnBYAhbwqIVRg1e4yy2hsQ3wViI=/0x0:1518x742/1120x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1120w, https://cdn.vox-cdn.com/thumbor/iHF0jiEda0tTWoWC2HsvQ0mDWP4=/0x0:1518x742/1320x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1320w, https://cdn.vox-cdn.com/thumbor/B5gQnHNS62n8_47J5TmZgA9quYI=/0x0:1518x742/1520x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1520w, https://cdn.vox-cdn.com/thumbor/4GNYZ2HbQPF35MzfgRG_yBKB2mk=/0x0:1518x742/1720x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1720w, https://cdn.vox-cdn.com/thumbor/NAPorDgkjpxLvB984Uuzq7OGDi0=/0x0:1518x742/1920x0/filters:focal(0x0:1518x742):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1920w" type="image/webp" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" /><img title="screenshot_2022_06_23_at_09-41-49-1" src="https://hoangtronganh.github.io/wp-content/uploads/2022/06/screenshot_2022_06_23_at_09-41-49-1.jpeg" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" srcset="https://cdn.vox-cdn.com/thumbor/4c8uTgg2OMFWRxBg5B9OkSYSiy8=/0x0:1518x742/320x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 320w, https://cdn.vox-cdn.com/thumbor/9Vr4W2wFm4jyR2hm0UWOAEK2IYY=/0x0:1518x742/520x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 520w, https://cdn.vox-cdn.com/thumbor/PULxe2-JUb7fitMuDgRy-t1zPF4=/0x0:1518x742/720x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 720w, https://cdn.vox-cdn.com/thumbor/L46wQ5RF3Bqoyx-CfE-5wChelPo=/0x0:1518x742/920x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 920w, https://cdn.vox-cdn.com/thumbor/ZPZG7hYrFEvkh6xpqnNbTx6D_aU=/0x0:1518x742/1120x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1120w, https://cdn.vox-cdn.com/thumbor/y1EKskfOBwkvGy2mLdtwHjnmmlo=/0x0:1518x742/1320x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1320w, https://cdn.vox-cdn.com/thumbor/CzjEGKLX2-mPg3iEgtiLGdUTAnE=/0x0:1518x742/1520x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1520w, https://cdn.vox-cdn.com/thumbor/K4ZU39WqvgbwkfXJ47ukCa-Qkf0=/0x0:1518x742/1720x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1720w, https://cdn.vox-cdn.com/thumbor/t6OylEAkqZ37OXBliajSm6SBeyk=/0x0:1518x742/1920x0/filters:focal(0x0:1518x742):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23646181/Screenshot_2022_06_23_at_09.41.49.png 1920w" data-upload-width="1518" /></picture></span></span><figcaption><em>Yoti’s data shows its technology performs slightly worse on female subjects and faces with darker skin tones. </em></figcaption><span class="e-image__inner"><span class="e-image__inner"><cite>Image: Yoti</cite><picture class="c-picture" data-cid="site/picture_element-1656569025_9742_264899" data-cdata="{&quot;asset_id&quot;:23646181,&quot;ratio&quot;:&quot;*&quot;}"></picture></span></span></figure>
+<p id="FY0MoF"><a href="https://www.yoti.com/wp-content/uploads/Yoti-Age-Estimation-White-Paper-Executive-Summary-May-2022.pdf" target="_blank" rel="noopener">The data</a> shows that Yoti’s system is less accurate for female faces and people with darker skin, and that for under-24s its estimates can be off by up to 2.5 years. However, if the tool is making a broad guess about a user’s age, its accuracy improves. <a href="https://www.accscheme.com/media/2ntishhf/age-estimation-results-executive-summary.pdf" target="_blank" rel="noopener">One 2020 analysis of Yoti’s system by a third-party nonprofit</a> found that it was 98.89 percent reliable at guessing whether or not people aged 18 were over or under 25. (That means that for every 1,000 guesses the system made, between 0 and 11 would be mistakes.)</p>
+<p id="GpLQsm">It’s not clear how these figures will translate for Instagram’s use case, or whether the system is really secure enough for this purpose. For example, we were able to fool Yoti’s web demo just by holding up photos in front of our webcam (though Instagram say this demo version does not include the anti-spoofing features active in the version it’s integrating). Underage users might also enlist the help of an older friend to pass the test.</p>
+<p id="8qkflI">This isn’t the only AI-powered tool Instagram uses to try and estimate users’ ages, either. Since 2019 the company has been using automated systems to search for underage users. These tools scan information like users’ birthday posts and the age of their friendship groups. So, for example, if a user claims to be 20 but posts about celebrating their 17th birthday, their account will be flagged and they may have to verify their age. Instagram says it’s working to add new data points to this system, and is even testing a language-analysis tool that will determine whether a user is an adult or a teen based on how they write.</p>
+<p id="cmV78R"><em><strong>Correction, Thursday 23rd June, 9:10AM ET: </strong></em><em>A previous version of this story said that Instagram started using AI-powered automated tools to search for underage users last year. The company began using this feature in 2019. We’ve also added extra information about the anti-spoofing feature used in Instagram’s integration of Yoti’s AI age estimation tool.</em></p>
+</div>
+</div>
+<div class="l-col__main">
+<section id="comments" class="c-comments" data-cid="apps/comment_forum-1656569025_2228_264904" data-cdata="{&quot;entry_id&quot;:22943793}">
+<div class="c-comments__header">
+</div>
+</section>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangtronganh.github.io/instagram-is-testing-an-ai-tool-that-verifies-your-age-by-scanning-your-face/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

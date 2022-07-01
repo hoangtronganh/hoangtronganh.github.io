@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Amazon &#8211; AYA</title>
+	<atom:link href="http://localhost/tag/amazon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoangtronganh.github.io/</link>
+	<description>Share news</description>
+	<lastBuildDate>Thu, 30 Jun 2022 06:59:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://hoangtronganh.github.io/wp-content/uploads/2022/06/cropped-android-chrome-512x512-1-32x32.png</url>
+	<title>Amazon &#8211; AYA</title>
+	<link>https://hoangtronganh.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Amazon shows off Alexa feature that mimics the voices of your dead relatives</title>
+		<link>https://hoangtronganh.github.io/amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives/</link>
+					<comments>https://hoangtronganh.github.io/amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 06:22:58 +0000</pubDate>
+				<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">https://hoangtronganh.github.io/amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives/</guid>
+
+					<description><![CDATA[Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference, showing a video in which a child asks Alexa to read a bedtime story in the voice of his dead grandmother. “As you saw in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div class="l-col__main">
+<figure class="e-image e-image--hero">
+<p><span style="font-size: revert;">Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives.</span></p>
+</figure>
+<div class="c-entry-content ">
+<p id="EOMsON">The company demoed the feature at its annual MARS conference, showing a video in which a child asks Alexa to read a bedtime story in the voice of his dead grandmother.</p>
+<p id="d653SZ">“As you saw in this experience, instead of Alexa’s voice reading the book, it’s the kid’s grandma’s voice,” said Rohit Prasad, Amazon’s head scientist for Alexa AI. Prasad introduced the clip by saying that adding “human attributes” to AI systems was increasingly important “in these times of the ongoing pandemic, when so many of us have lost someone we love.”</p>
+<p id="nh1zIq">“While AI can’t eliminate that pain of loss, it can definitely make their memories last,” said Prasad. You can watch the demo itself below:</p>
+<div id="xk2j15">
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" src="https://www.youtube.com/embed/22cb24-sGhg?rel=0&amp;start=3719" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<p> </p>
+<p> </p>
+<p id="zDfBsf">Amazon has given no indication whether this feature will ever be made public, but says its systems can learn to imitate someone’s voice from just a single minute of recorded audio. In an age of abundant videos and voice notes, this means it’s well within the average consumer’s reach to clone the voices of loved ones — or anyone else they like.</p>
+<p id="yHziKu">Although this specific application is already controversial, with users on social media calling the feature “creepy” and a “monstrosity,” such AI voice mimicry has <a href="https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast" target="_blank" rel="noopener">become increasingly common</a> in recent years. These imitations are often known as “audio deepfakes” and are already regularly used in industries like podcasting, film and TV, and video games.</p>
+<div class="c-float-right">
+<aside id="U06FWt"><q>Audio deepfakes are already common in podcasting and film</q></aside>
+</div>
+<p id="FFbRjn">Many audio recording suites, for example, offer users the option to clone individual voices from their recordings. That way, if a podcast host flubs her or his line, for example, a sound engineer can edit what they’ve said simply by typing in a new script. Replicating lines of seamless speech requires a lot of work, but very small edits can be made with a few clicks.</p>
+<p id="GIri3P">The same technology has been used in film, too. Last year, it was revealed that a documentary about the life of chef Anthony Bourdain, who died in 2018, used AI to clone his voice in order to read quotes from emails he sent. Many fans were disgusted by the application of the technology, calling it “ghoulish” and “deceptive.” Others defended the use of the technology as similar to other reconstructions used in documentaries</p>
+<p id="GbSTUr">Amazon’s Prasad said the feature could enable customers to have “lasting personal relationships” with the deceased, and it’s certainly true that many people around the world are already using AI for this purpose. People have already <a href="https://www.sfchronicle.com/projects/2021/jessica-simulation-artificial-intelligence/" target="_blank" rel="noopener">created chatbots that imitate dead loved ones</a>, for example, training AI based on stored conversations. Adding accurate voices to these systems — or even video avatars — is entirely possible using today’s AI technology, and is likely to become more widespread.</p>
+<p id="Oh2PzD">However, whether or not customers will want their dead loved ones to become digital AI puppets is another matter entirely.</p>
+</div>
+</div>
+<div class="l-col__main">
+<section id="comments" class="c-comments" data-cid="apps/comment_forum-1656571127_1947_328595" data-cdata="{&quot;entry_id&quot;:22943789}">
+<div class="c-comments__header">
+<p> </p>
+</div>
+</section>
+</div>
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangtronganh.github.io/amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
